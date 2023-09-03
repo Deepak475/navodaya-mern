@@ -1,0 +1,40 @@
+.auth-container {
+  background-image: linear-gradient(to right, #3b82f6, #4f46e5);
+  height: 100vh;
+  position: relative;
+}
+
+.spinner-container {
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.login-data {
+  border: 1px solid #ccc;
+  padding: 1.5rem;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 34rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+.side-navbar {
+  background-image: linear-gradient(to right, #3b82f6, #4f46e5) !important;
+}
+
+.sidenav---navtext---1AE_f {
+  font-weight: bold;
+  color: #fdfdfd !important;
+}
+
+.sidenav---sidenav-nav---3tvij>.sidenav---sidenav-navitem---uwIJ->.sidenav---navitem---9uL5T .sidenav---navicon---3gCRo>*,
+.sidenav---sidenav-nav---3tvij>.sidenav---sidenav-navitem---uwIJ->.sidenav---navitem---9uL5T .sidenav---navtext---1AE_f>* {
+  color: #fdfdfd !important;
+}
